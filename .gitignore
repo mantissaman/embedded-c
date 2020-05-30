@@ -3,3 +3,4 @@
 **/*.bak
 **/.~lock.*
 **/.metadata/
+.DS_Store
